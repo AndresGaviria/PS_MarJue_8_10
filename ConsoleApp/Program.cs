@@ -1,17 +1,17 @@
-﻿var producto = new Productos(1, "TV", 2000000, 5);
+﻿Productos producto = new Productos(1, "TV", 2000000, 5);
 Console.WriteLine(producto.get_nombre());
 
-public abstract class ProductosBase1
+public abstract class AProductosBase
 {
     public abstract bool Valor();
 }
 
-public interface ProductosBase2
+public interface IProductosBase
 {
     double Valor();
 }
 
-public class Productos : ProductosBase2
+public class Productos : IProductosBase
 {
     // Atributos
     private int id = 0;
@@ -40,7 +40,7 @@ public class Productos : ProductosBase2
     }
 }
 
-public class Productos2 : ProductosBase2
+public class Productos2 : IProductosBase
 {
     // Atributos
     private int id = 0;
