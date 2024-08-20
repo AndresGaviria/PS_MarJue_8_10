@@ -36,7 +36,7 @@ public class Productos : IProductosBase
     // Metodos
     public double Valor()
     {
-        return 16;
+        return precio + cant;
     }
 }
 
@@ -60,6 +60,6 @@ public class Productos2 : IProductosBase
     // Metodos
     public double Valor()
     {
-        return 15;
+        return precio + cant + ((precio / 100) * 16);
     }
 }
