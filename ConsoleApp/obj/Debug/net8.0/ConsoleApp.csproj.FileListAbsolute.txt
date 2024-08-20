@@ -1,0 +1,15 @@
+E:\Git\PS_MarJue_8_10\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+E:\Git\PS_MarJue_8_10\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+E:\Git\PS_MarJue_8_10\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+E:\Git\PS_MarJue_8_10\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+E:\Git\PS_MarJue_8_10\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+E:\Git\PS_MarJue_8_10\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\PS_MarJue_8_10\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+E:\Git\PS_MarJue_8_10\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+E:\Git\PS_MarJue_8_10\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Git\PS_MarJue_8_10\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+E:\Git\PS_MarJue_8_10\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+E:\Git\PS_MarJue_8_10\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+E:\Git\PS_MarJue_8_10\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+E:\Git\PS_MarJue_8_10\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+E:\Git\PS_MarJue_8_10\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
