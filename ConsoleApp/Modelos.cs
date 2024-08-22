@@ -13,9 +13,9 @@ namespace ConsoleApp.Entidades
         private void Ejemplo()
         {
             Console.WriteLine("Ejemplo Base");
-            var lista = new List<FeacturasBase>();
+            var lista = new List<FacturasBase>();
 
-            var temporal = new FeacturasBase() 
+            var temporal = new FacturasBase() 
             {
                 Id = 1,
                 Numero = "H0010",
@@ -30,7 +30,7 @@ namespace ConsoleApp.Entidades
                 Total = 2040000,
             };
             lista.Add(temporal);
-            lista.Add(new FeacturasBase() 
+            lista.Add(new FacturasBase() 
             {
                 Id = 2,
                 Numero = "H0010",
@@ -44,7 +44,7 @@ namespace ConsoleApp.Entidades
                 IVA = 0,
                 Total = 2040000,
             });
-            lista.Add(new FeacturasBase() 
+            lista.Add(new FacturasBase() 
             {
                 Id = 3,
                 Numero = "H0011",
@@ -58,7 +58,7 @@ namespace ConsoleApp.Entidades
                 IVA = 0,
                 Total = 2000,
             });
-            lista.Add(new FeacturasBase() 
+            lista.Add(new FacturasBase() 
             {
                 Id = 4,
                 Numero = "H0012",
@@ -91,7 +91,7 @@ namespace ConsoleApp.Entidades
         }
     }
 
-    public class FeacturasBase
+    public class FacturasBase
     {
         private int id = 0;
         private string numero = "";
