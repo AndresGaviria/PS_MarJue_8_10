@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Docente\\2024-2\\Programación de software\\Git\\PS_MarJue_8_10\\ConsoleAPp\\ConsoleApp.csproj": {}
+    "E:\\Docente\\Programación de software\\Git\\PS_MarJue_8_10\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "E:\\Docente\\2024-2\\Programación de software\\Git\\PS_MarJue_8_10\\ConsoleAPp\\ConsoleApp.csproj": {
+    "E:\\Docente\\Programación de software\\Git\\PS_MarJue_8_10\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Docente\\2024-2\\Programación de software\\Git\\PS_MarJue_8_10\\ConsoleAPp\\ConsoleApp.csproj",
+        "projectUniqueName": "E:\\Docente\\Programación de software\\Git\\PS_MarJue_8_10\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "E:\\Docente\\2024-2\\Programación de software\\Git\\PS_MarJue_8_10\\ConsoleAPp\\ConsoleApp.csproj",
+        "projectPath": "E:\\Docente\\Programación de software\\Git\\PS_MarJue_8_10\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\AA\\.nuget\\packages\\",
-        "outputPath": "E:\\Docente\\2024-2\\Programación de software\\Git\\PS_MarJue_8_10\\ConsoleAPp\\obj\\",
+        "outputPath": "E:\\Docente\\Programación de software\\Git\\PS_MarJue_8_10\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
