@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp.Entidades
+namespace ConsoleApp.Clases.Entidades
 {
     public class Modelos
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp.AlquilerPeliculas
+namespace ConsoleApp.Clases.AlquilerPeliculas
 {
     public class Personas
     {

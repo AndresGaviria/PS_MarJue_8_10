@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp.Definicion
+namespace ConsoleApp.Clases.Definicion
 {
     public class Clases
     {

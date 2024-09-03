@@ -1,5 +1,6 @@
-﻿using ConsoleApp.Definicion;
-using ConsoleApp.Entidades;
+﻿using ConsoleApp.Clases.Definicion;
+using ConsoleApp.Clases.Entidades;
+using ConsoleApp.Conexion;
 
 var clases = new Clases();
 clases.Ejecutar();
@@ -10,3 +11,6 @@ modelo.Ejecutar();
 var modeloComplejo = new ModeloComplejo();
 modeloComplejo.Ejecutar();
 */
+
+var conexion = new ConexionBasica();
+conexion.ObtenerTests();

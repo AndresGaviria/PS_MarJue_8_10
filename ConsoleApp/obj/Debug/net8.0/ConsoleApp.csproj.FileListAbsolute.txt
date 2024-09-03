@@ -43,3 +43,11 @@ E:\Docente\Programación de software\Git\PS_MarJue_8_10\ConsoleApp\obj\Debug\net
 E:\Docente\Programación de software\Git\PS_MarJue_8_10\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
 E:\Docente\Programación de software\Git\PS_MarJue_8_10\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
 E:\Docente\Programación de software\Git\PS_MarJue_8_10\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+E:\Docente\Programación de software\Git\PS_MarJue_8_10\ConsoleApp\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Docente\Programación de software\Git\PS_MarJue_8_10\ConsoleApp\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Docente\Programación de software\Git\PS_MarJue_8_10\ConsoleApp\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Docente\Programación de software\Git\PS_MarJue_8_10\ConsoleApp\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Docente\Programación de software\Git\PS_MarJue_8_10\ConsoleApp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Docente\Programación de software\Git\PS_MarJue_8_10\ConsoleApp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Docente\Programación de software\Git\PS_MarJue_8_10\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+E:\Docente\Programación de software\Git\PS_MarJue_8_10\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.Up2Date
