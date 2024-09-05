@@ -7,6 +7,8 @@
 - git commit -am "Descripcion"
 - git push
 
+- git checkout -- .
+
 # Commandos dotnet 
 - dotnet run
 - dotnet restore
