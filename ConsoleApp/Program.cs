@@ -15,3 +15,7 @@ modeloComplejo.Ejecutar();
 
 var conexion = new ConexionBasica();
 conexion.ObtenerPeliculas_Procedimiento();
+
+var conexionEF = new ConexionEF();
+conexionEF.GuardarPeliculas();
+conexionEF.ObtenerPeliculas();
