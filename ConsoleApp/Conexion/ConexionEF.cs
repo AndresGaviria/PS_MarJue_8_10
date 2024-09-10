@@ -7,7 +7,9 @@ namespace ConsoleApp.Conexion
 {
     public class ConexionEF
     {
-        private string string_conexion = "server=localhost;database=db_facturas;uid=sa;pwd=Clas3sPrO2024_!;TrustServerCertificate=true;";
+        private string string_conexion = "server=localhost;database=db_facturas;Integrated Security=True;TrustServerCertificate=true;";
+        // server=localhost;database=db_facturas;uid=sa;pwd=Clas3sPrO2024_!;TrustServerCertificate=true;
+        // server=localhost;database=db_facturas;Integrated Security=True;TrustServerCertificate=true;
 
         public ConexionEF()
         {
