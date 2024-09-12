@@ -91,7 +91,7 @@ DELETE FROM Personas1
 WHERE id = 2;
 
 
-drop table personas1;
+DROP TABLE personas1;
 
 UPDATE [Personas1]
 SET [Nombre] = 'Nacho'
